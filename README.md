@@ -23,7 +23,7 @@ Grabber is a Flutter UI practice project focused on building a clean and modern 
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ## 👨‍💻 Developer
 
