@@ -1,17 +1,36 @@
-# grabber
+# 🍎 Grabber - Fruits Store UI
 
-A new Flutter project.
+A modern fruit store UI project built with Flutter.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+Grabber is a Flutter UI practice project focused on building a clean and modern shopping interface with reusable widgets and organized code structure.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Home screen design
+- Promotional banners
+- Product cards
+- Categories section
+- Bottom navigation
+- Custom reusable widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies
+
+- Flutter
+- Dart
+- Material Design
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 👨‍💻 Developer
+
+Yousif Salama
+
+Email:
+yousifsalama67@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/yousif-salama-21256a320/
